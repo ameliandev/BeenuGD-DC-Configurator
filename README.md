@@ -12,7 +12,7 @@ Struct and examples to use a gamepads axis, hats and buttons.
 
 ## Requirements
 
-No requirements.
+Real hardware or Dreamcast emulator.
 
 ## To improve
 
