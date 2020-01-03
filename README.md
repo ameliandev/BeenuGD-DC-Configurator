@@ -1,6 +1,6 @@
 # BennuGD configurator for Sega Dreamcast
 
-This is my BennuGD configurator for Sega Dreamcast console.
+This is my BennuGD configurator for Sega Dreamcast console. It works only under real hardware or Dreamcast emulator.
 
 This project enable a basic configuration for the screen and the game pads. See the example.prg file to view the example code.
 
