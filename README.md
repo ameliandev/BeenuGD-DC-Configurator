@@ -6,13 +6,13 @@ This project enable a basic configuration for the screen and the game pads. See 
 
 ## Features
 
-Configuration for screen 640x480 at 16 colors deep.
+Configuration for 640x480 screen at 16 colors deep.
 
 Struct and examples to use a gamepads axis, hats and buttons.
 
 ## Requirements
 
-Real hardware or Dreamcast emulator.
+**Real hardware** or Dreamcast emulator with a configured gamepad.
 
 ## To improve
 
